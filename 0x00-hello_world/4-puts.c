@@ -1,11 +1,12 @@
 #include <stdio.h>
 /**
- * main - My first prints line puts function
- * return: 0 (success)
- */
+* main - Entry point
+*
+* Description: "My first puts line function"
+* return: 0 (success)
+*/
 int main(void)
 {
-puts("\"Programming is like building a multilingual 
-puzzle");
+puts("Programming is like building a multilingual puzzle");
 return (0);
 }
