@@ -3,7 +3,8 @@
 * main - Entry point
 *
 * Description: "My first puts line function"
-* return: 0 (success)
+*
+* Return: always return 0 (success)
 */
 int main(void)
 {
