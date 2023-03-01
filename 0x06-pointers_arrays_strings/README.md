@@ -1,0 +1,1 @@
+0x06 more pointer arrays and string0x06 more pointer arrays and string0x06 more pointer arrays and string0x06 more pointer arrays and string0x06 more pointer arrays and string0x06 more pointer arrays and string
