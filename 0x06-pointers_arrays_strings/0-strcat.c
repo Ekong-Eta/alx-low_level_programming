@@ -23,6 +23,6 @@ char *_strcat(char *dest, char *src)
 		x++;
 		y++;
 	}
-	dest[x] = '\0';
+	dest[x];
 	return (dest);
 }
